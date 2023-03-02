@@ -22,7 +22,7 @@ https://github.com/adafruit/Adafruit_SSD1306
 
 
 ## Running the code
-The next step after you have installed the ARDUINO IDE and the relevent librararies that were mentoned above; is to simly copy the code and paste it on the ARDUINO IDE terminal screen.
+The next step after you have installed the ARDUINO IDE and the relevent librararies that were mentoned above; is to simply copy the code and paste it on the ARDUINO IDE terminal screen.
 
 Then you have to just click on "debug and run" the code on the editor and thats it.
 
