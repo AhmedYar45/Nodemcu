@@ -1,6 +1,6 @@
 ## About
 
-This code contains the implementation of automated fingerprint attendance system using nodemcu. The uploaded code is deployed on to nodemcu to Enroll the student fingerprints and then marking their attendance by matching their fingerprint images already stored in the database. Backend code is done in laravel and is uploaded to github by my other group member Huzaifa.
+This C++ code contains the implementation of automated fingerprint attendance system using nodemcu. The uploaded code is deployed on to nodemcu to Enroll the student fingerprints and then marking their attendance by matching their fingerprint images already stored in the database. Backend code is done in laravel and is uploaded to github by my other group member Huzaifa.
 
 
 ## Installation
@@ -26,6 +26,9 @@ The next step after you have installed the ARDUINO IDE and the relevent librarar
 
 Then you have to just click on "debug and run" the code on the editor and thats it.
 
+## Debugging
+If there arise any bugs or issues while running the code; you can use the "Serial Monitor" option.
+
 
 ## Circuit Diagram
 Here is the circuit diagram of how to attach the IOT device components correctly in order for the code to work on nodemcu. 
@@ -38,5 +41,6 @@ In order for the code to run; remember to first attach the IOT fingerprint to yo
 
 Following is the version of Arduino IDE used. 
 
-    Arduino IDE : 2.0.3
-   
+ Arduino IDE : 2.0.3
+
+And the code was written using the C++ language.   
