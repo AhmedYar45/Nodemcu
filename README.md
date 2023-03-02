@@ -15,7 +15,9 @@ Here is how to install software libraries with the new library manager tool in t
 After opening the arduino IDE editor for the first time; it will automatically download some basic libraries itself but there are certain libraries that you would need to add manually.
 
 Below are the links to download the required librarires.
+
 https://github.com/adafruit/Adafruit-GFX-Library
+
 https://github.com/adafruit/Adafruit_SSD1306
 
 
